@@ -200,9 +200,6 @@ class App extends Component {
               }
               disabled="disabled"
             />
-            <button>{this.state.value1}</button>
-
-            <button>{this.state.result}</button>
           </div>
         </div>
       </div>
